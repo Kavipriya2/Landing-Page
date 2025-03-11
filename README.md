@@ -1,2 +1,2 @@
 # Landing-Page
-Created a simple responsive landing page
+Created a simple responsive candle landing page
